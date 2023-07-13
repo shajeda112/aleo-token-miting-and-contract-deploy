@@ -1,4 +1,4 @@
-program croutondigital.aleo;
+program shajeda.aleo;
 
 record Token:
     owner as address.private;
