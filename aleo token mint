@@ -1,0 +1,5 @@
+program ID:shajeda:aleo
+function name:mint
+inputs:aleo1wlg4gtzfc7x5a8l6uag6pkfp649g606vfrthvg2exwgp2avlcuxq3nu5ns
+amount:1000u64
+fees:1000000
